@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pristine-valve-387207",
+  "private_key_id": "0b71001cdc3990396109e9ef926b991f51664fe5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDwPkdpVMxVcwSL\nVzUgWMGAlNjhOllv4/db1TneHUrznn4yvz+WnRET1O1v8/oA8pBBn9zISRrDORvA\naXza19aMLJfXpKjMT3SPgPqEdg7z/uwm7V+cdy9occouo6L3kgKsSxnrAxGyfbug\nv/EGgNEIm9N9Jpj7QboDaxFaBDlXusQdvE/l8BEMHlLOYT3i6tbyxFnKKvp2jz6K\nsUmsFmrFKt3lUr9khvCxlYKpzFC4cJ9okThmNC47sajbx+1notjGt2aEuTNdQj2G\nzs48rIofiIWToh4x1d0+S3ctUNyn3LuEl0zDDZypLhZVar5Qv45NQABjHZ6xm5de\nJoGR+l3ZAgMBAAECggEACjSbE/5mL7sTFlg+CYG7tpqcG/U+l2I3v87vBmB4LqEs\n+zrkmKFTeGQzMe5LUH79YcxItLlmSaTDaQkSJLnGg23hhWeZRBSb/vybp8TcHcFW\nhtDOnvbxLJ6o2BJbeejZ9De8gh8/QTXWIp4EvyH5v0PfWBGrrgC8xihmNEy5ouBX\nIXfMudFcUKLSQ+kbcml7xZNaAk1uc/AvNlxLdOHwe2cMmmF0AD0uBXBDII/p7/nm\nXXoEnLbuRMx1imQDFJkOTKZYGP7nsZhtLJxcsPltCq1mJC3GJZqRFIQDInKTR+71\nln53JnFJpfHM9vXiokmJnuhG2Q6lB802b6IBWDNOAQKBgQD85DJVETLJEM1Br/U4\nc5gnjQyWLvsz7gr/cwCbwT2/naurgM+9Owtx/8i71NZoLq4NtmKigoyIF5iNcrHY\no8DGqTUzbJCvxC2o2E/mQlOKN+g4uBmKNgZUK/j8pPUUaL2iGZxVe7xCfOvRfmKs\nFCmVNMmuPNbAA/grcC7c4K8bRQKBgQDzMkfwYigemkrqPzcdYxl5DA0it+1/yWCl\neq2R2ubjTodJzSZ3tSTZrBKcFuNJptUcya/dXLVaByhXGjsYYyKKO/poHt7jLyNo\nFJt54MYOPXiANOusrz1EAauFtXFTDOR6BRci9xf27uJehGDvpWXMLltPFZZ+dA2D\nwoZEHzYXhQKBgQDBGZX9MqautO+l6q+6LTnPaXpk6vbRTkCDkdKzG7kEqWY+DJuT\niJRStdcW5YvZ/VrWCaADKuAXwryvtRZrr44xo16GJ63LKGcc+B76WUbk0Y+2T4zg\n5iOq/fCfKW4h6WBzeE7RTywPMMf4LSM29iZSUf511uq7r8w9jumZqs7KaQKBgQCl\nyeA64l9hRWPOvtuOwBEMcQe/ZE2W8KxfAvuyU91UliMqT51qu+VsMp7ZI808V2wu\n3Ntz95B12C1K+8nPfT19qReyxWDC1U641FuNQYsjCArOs8T6CtikNNM+Kowfxsk2\n2aOFJZeDsiRFtM70b/eusudySVA30luoOAMaC4DvlQKBgQCkrs+2Ws+pCX4Eu+99\n9IDbqA6b98CGMIOWrfLgg7/MHOsKdkNle9LGg+OI7TQv3+BSkIPco2AOL4cRX/cu\nBqKoIVVcgmSiUTqF+7LIUUGAW7vLkazcB5IX7pGYQDigm0WRWOrKszysMnjFfQOD\nnu61lV7AbDNzJoj6K3aDmcezNg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "connect-google-sheet@pristine-valve-387207.iam.gserviceaccount.com",
+  "client_id": "107311486915160569671",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/connect-google-sheet%40pristine-valve-387207.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -10,7 +10,6 @@ import arrow
 
 
 now_time = datetime.now()
-#111
 
 def get_week_alert():
 
