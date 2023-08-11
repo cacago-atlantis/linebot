@@ -13,15 +13,15 @@ def push_msg():
     now_time = datetime.now()
 
     # # Channel Access Token
-    # token='1m6m6T5ZJ9IFNJcodvQ3VnpjRLF4ccbBFh+bPEHL0Je8rP4l+NfFkngbSH30Tl6zftUFVOHjMABuanuXk/JfNUSqQag2gGdCGJBQ3sobG9MxDAWYlev8NggyEirQ3qya/GDA74wrfvoUOKtmc14UNAdB04t89/1O/w1cDnyilFU='
+    token='1m6m6T5ZJ9IFNJcodvQ3VnpjRLF4ccbBFh+bPEHL0Je8rP4l+NfFkngbSH30Tl6zftUFVOHjMABuanuXk/JfNUSqQag2gGdCGJBQ3sobG9MxDAWYlev8NggyEirQ3qya/GDA74wrfvoUOKtmc14UNAdB04t89/1O/w1cDnyilFU='
     # # 亞特
-    # group_id='C14ab14ed596002ef031fe907f72f30cb'
+    group_id='C14ab14ed596002ef031fe907f72f30cb'
 
     # test Channel Access Token
-    token='ae19UEB3fm4w7mdYJ9k9xb6bNrjML1WXVaF89rqzqzswoCOxYY/Xcmpy6yreGcb3wpPnNc+4/YVT0idRouGHCEGDvNsXQrLWZMrRn++CoFoGbiWBDW0wQcMeRd0UEdox2SIGzHWxbIS/+IXWfClQMgdB04t89/1O/w1cDnyilFU='
+    # token='ae19UEB3fm4w7mdYJ9k9xb6bNrjML1WXVaF89rqzqzswoCOxYY/Xcmpy6yreGcb3wpPnNc+4/YVT0idRouGHCEGDvNsXQrLWZMrRn++CoFoGbiWBDW0wQcMeRd0UEdox2SIGzHWxbIS/+IXWfClQMgdB04t89/1O/w1cDnyilFU='
 
     # 測試機器人
-    group_id='C0899311c87a2d0f0e317f4ac82b3900c'
+    # group_id='C0899311c87a2d0f0e317f4ac82b3900c'
     # # 團購
     # group_id='C8f43d1d04b12c94a0d1e3ec315eedfad'
 
