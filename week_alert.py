@@ -11,7 +11,7 @@ def push_msg():
 
 # pyinstaller -F .\week_alert.py
     now_time = datetime.now()
-    
+
     # # Channel Access Token
     token='1m6m6T5ZJ9IFNJcodvQ3VnpjRLF4ccbBFh+bPEHL0Je8rP4l+NfFkngbSH30Tl6zftUFVOHjMABuanuXk/JfNUSqQag2gGdCGJBQ3sobG9MxDAWYlev8NggyEirQ3qya/GDA74wrfvoUOKtmc14UNAdB04t89/1O/w1cDnyilFU='
     # # 亞特
