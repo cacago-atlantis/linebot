@@ -7,6 +7,7 @@ from datetime import datetime
 # from count_dialog import count_func
 from google_sheet import get_week_alert
 
+# 123
 # pyinstaller -F .\line_push_msg.py
 
 # # Channel Access Token
